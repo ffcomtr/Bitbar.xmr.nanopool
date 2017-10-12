@@ -5,6 +5,7 @@
 # <bitbar.author>FF</bitbar.author>
 # <bitbar.author.github>ffcomtr</bitbar.author.github>
 # <bitbar.desc>Shows your Monero mining status at Nanopool</bitbar.desc>
+# <bitbar.image>https://raw.githubusercontent.com/ffcomtr/Bitbar.xmr.nanopool/master/bitbarnanopool.png</bitbar.image>
 # <bitbar.abouturl>https://github.com/ffcomtr</bitbar.abouturl>
 #
 # Please change wallet string to your wallet to monitor your account
